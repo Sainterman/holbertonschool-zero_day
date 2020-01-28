@@ -1,0 +1,1 @@
+# This project's puropse is to practice emacs most common commands for editing text and openin and safing files
